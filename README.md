@@ -1,0 +1,1 @@
+# Given-a-Python-list-remove-all-occurrence-of-20-from-the-list
